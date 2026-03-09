@@ -1,7 +1,7 @@
 ## Hi there, I'm Sandro👋
 ## I'm a Consultant, a Software enthusiast!
 
-I have been using .NET since its first introduction. Today I proudly live in Ameglia, Italy, I work as a freelance consultant and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web. My greatest expertise is backend development as a software architect.
+I have been using .NET since its first introduction. Today I proudly live in Ameglia, Italy, I work as a freelance consultant and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for Desktop, Mobile and Web.
 <!--
 **DPSandro/DPSandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
